@@ -1,1 +1,1 @@
-# Réplica de um ecommerce feita para estudo utilizando HTML, CSS, Bootstrap e Javascript.
+# Réplica de um e-commerce feita para estudo utilizando HTML, CSS, Bootstrap e Javascript.
